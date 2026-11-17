@@ -1,0 +1,4 @@
+- [x] Renovar menus, seleção de naves e telas de apoio sem alterar mecânicas.
+- [x] Verificar navegação, início de partida e interface em telas menores.
+- [x] Adicionar edição dos atributos das cinco naves e habilidades, salvar ajustes e restaurar padrões.
+- [x] Testar ajustes aplicados no jogo e conferir a área em telas menores.
